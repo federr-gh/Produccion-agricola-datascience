@@ -29,4 +29,4 @@ Modelo CRISP DM
 
 Los modelos construídos en Orange con mejor rendimiento son:
 
-![alt text](orange.png)
+![alt text](orange.PNG)
